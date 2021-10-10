@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["impl_mac",""]],"struct":[["UCred","Credentials for a UNIX process for credentials passing."]]});
